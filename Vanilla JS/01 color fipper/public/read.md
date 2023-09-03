@@ -2,8 +2,10 @@
 
 - Create a folder name it "public", open with vs-code
 - In public-folder create index.html, app.js, style.css files
-- Go to bootstrap, copy starter template and paste it in index.html
-- In index.html link app.js, style.css files
+- Go to bootstrap, copy starter template in public/index.html-file
+
+  - change title
+  - link app.js, style.css files
 
 ```html
 <!-- styles -->
